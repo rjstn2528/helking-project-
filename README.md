@@ -116,12 +116,14 @@ VSCode 하단 터미널 또는 PowerShell에서 아래 명령어를 순서대로
 pip install flask
 pip install flask_cors
 pip install selenium_stealth
-2. 프로젝트 디렉터리 이동 & 서버 실행
+
+### 2. 프로젝트 디렉터리 이동 & 서버 실행
+
 bash
 코드 복사
 cd "Python 프로젝트 경로"  # 예시: C:\Users\YourName\helking-project\backend
 py flask_transport_server.py
-3. 성공 시 출력 예시
+### 3. 성공 시 출력 예시
 arduino
 코드 복사
 ✅ selenium-stealth 패키지 로드 성공  
