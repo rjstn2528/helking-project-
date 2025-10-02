@@ -56,13 +56,11 @@ QR 코드 스캔만으로 빠르고 안전하게 입장할 수 있습니다. <br
 
 ##  개발 환경   
 
-<div align="center">
-  
+ 
 개발 툴: STS3, VSCode, SQL Developer, Chrome DevTools <br>
 서버 & DB: Tomcat, Oracle DB<br>
 언어: Java, JSP, HTML5, CSS3, JavaScript<br>
 도구: GitHub, dbdiagram.io<br>
-</div>
 
 
 ## 🗃 프로젝트 구조
