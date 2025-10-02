@@ -135,8 +135,6 @@ py flask_transport_server.py
 프로젝트가 정상 실행되면 터미널에 아래와 같이 출력됩니다
 ```
 ✅ selenium-stealth 패키지 로드 성공  
-
-
 ```
 ### 5️⃣ Spring 서버 실행 방법
 
