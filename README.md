@@ -64,7 +64,7 @@ Java / JSP / HTML5 / CSS3 </br>
 JavaScript / Spring Framework
 </br>
 <br>
-Apache Tomcat / Oracle DB / Maven / Python
+Apache Tomcat / Oracle DB / Maven 
 </br>
 </div>
 
