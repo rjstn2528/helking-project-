@@ -58,14 +58,10 @@ QR 코드 스캔만으로 빠르고 안전하게 입장할 수 있습니다. <br
 
 <div align="center">
   
-<br>
-Java / JSP / HTML5 / CSS3 </br>
-<br>
-JavaScript / Spring Framework
-</br>
-<br>
-Apache Tomcat / Oracle DB / Maven 
-</br>
+개발 툴: STS3, VSCode, SQL Developer, Chrome DevTools <br>
+서버 & DB: Tomcat, Oracle DB<br>
+언어: Java, JSP, HTML5, CSS3, JavaScript<br>
+도구: GitHub, dbdiagram.io<br>
 </div>
 
 
