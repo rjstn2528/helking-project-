@@ -151,19 +151,9 @@ SQL 파일 실행하여 DB 테이블 생성
 기본 서버 주소: http://localhost:8080
 ```
 
-### 🔗 주요 API 예시 (Spring 서버 기준)
+### 📝 ERD
 
-🚄 기차 검색
-http://localhost:8080/search_trains?departure=서울&arrival=부산&date=20250924
 
-🚌 버스 검색
-http://localhost:8080/search_buses?departure_terminal=서울고속버스터미널&arrival_terminal=부산서부터미널&date=20250924
-
-✈️ 항공 검색
-http://localhost:8080/search_flights?departure_airport=ICN&arrival_airport=NRT&departure_date=2025-09-24
-
-📋 역 목록 조회
-http://localhost:8080/stations
 
 
 
