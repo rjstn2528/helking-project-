@@ -58,9 +58,7 @@ QR 코드 스캔만으로 빠르고 안전하게 입장할 수 있습니다. <br
 
 **개발 툴**  
 ![STS3](https://img.shields.io/badge/STS3-6DB33F?style=flat&logo=spring&logoColor=white)  
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)  
 ![SQL Developer](https://img.shields.io/badge/SQL_Developer-F80000?style=flat&logo=oracle&logoColor=white)  
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat&logo=googlechrome&logoColor=white)  
 
 **서버 & DB**  
 ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black)  
