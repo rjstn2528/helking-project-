@@ -75,7 +75,7 @@ QR 코드 스캔만으로 빠르고 안전하게 입장할 수 있습니다. <br
 
 **도구 / 협업**  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![dbdiagram.io](https://img.shields.io/badge/dbdiagram.io-0D1117?style=flat&logo=dbdiagram&logoColor=white)
+![dbdiagram.io](https://img.shields.io/badge/dbdiagram.io-0D1117?style=flat&logo=dbdiagram&logoColor=white) (erd 그리는 사이트)
 
 
 
