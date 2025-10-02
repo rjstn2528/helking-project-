@@ -54,10 +54,29 @@ QR 코드 스캔만으로 빠르고 안전하게 입장할 수 있습니다. <br
 ##  개발 환경   
 
  
-개발 툴: STS3, VSCode, SQL Developer, Chrome DevTools <br>
-서버 & DB: Tomcat, Oracle DB<br>
-언어: Java, JSP, HTML5, CSS3, JavaScript<br>
-도구: GitHub, dbdiagram.io(erd 그리는 사이트)<br>
+## 🛠️ 개발환경
+
+**개발 툴**  
+![STS3](https://img.shields.io/badge/STS3-6DB33F?style=flat&logo=spring&logoColor=white)  
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)  
+![SQL Developer](https://img.shields.io/badge/SQL_Developer-F80000?style=flat&logo=oracle&logoColor=white)  
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat&logo=googlechrome&logoColor=white)  
+
+**서버 & DB**  
+![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black)  
+![Oracle DB](https://img.shields.io/badge/Oracle-FF0000?style=flat&logo=oracle&logoColor=white)  
+
+**언어 / 웹 기술**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=jsp&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+
+**도구 / 협업**  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![dbdiagram.io](https://img.shields.io/badge/dbdiagram.io-0D1117?style=flat&logo=dbdiagram&logoColor=white)
+
 
 
 ## 🗃 프로젝트 구조
