@@ -92,6 +92,9 @@ QR 코드 스캔만으로 빠르고 안전하게 입장할 수 있습니다. <br
 
 ---
 
+
+---
+
 ## Helking Project 실행 가이드
 
 ### 1️⃣ 실행 전 준비사항
@@ -110,41 +113,4 @@ VSCode 하단 터미널 또는 PowerShell에서 순서대로 입력:
 pip install flask
 pip install flask_cors
 pip install selenium_stealth
-3️⃣ 프로젝트 디렉터리 이동 & 서버 실행
-bash
-코드 복사
-cd "Python 프로젝트 경로"  # 예: C:\Users\YourName\helking-project\backend
-py flask_transport_server.py
-4️⃣ 성공 시 출력 예시
-plaintext
-코드 복사
-✅ selenium-stealth 패키지 로드 성공  
-🌐 서버 주소: http://localhost:8000
-5️⃣ Spring 서버 실행 방법
-Spring Tool Suite(STS) 실행
 
-프로젝트 임포트 (spring_legacy 폴더 내 프로젝트)
-
-SQL 파일 실행하여 DB 테이블 생성
-
-톰캣 서버 실행
-
-기본 서버 주소: http://localhost:8080
-
-🔗 주요 API 예시 (Spring 서버 기준)
-🚄 기차 검색
-http://localhost:8080/search_trains?departure=서울&arrival=부산&date=20250924
-
-🚌 버스 검색
-http://localhost:8080/search_buses?departure_terminal=서울고속버스터미널&arrival_terminal=부산서부터미널&date=20250924
-
-✈️ 항공 검색
-http://localhost:8080/search_flights?departure_airport=ICN&arrival_airport=NRT&departure_date=2025-09-24
-
-📋 역 목록 조회
-http://localhost:8080/stations
-
-http://localhost:8080/search_flights?departure_airport=ICN&arrival_airport=NRT&departure_date=2025-09-24
-
-📋 역 목록 조회:
-http://localhost:8080/stations
