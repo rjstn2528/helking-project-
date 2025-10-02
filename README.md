@@ -116,3 +116,32 @@ pip install selenium_stealth
 
 cd "Python 프로젝트 경로"  # 예: C:\Users\YourName\helking-project\backend
 py flask_transport_server.py
+
+---
+```
+### 3️⃣ 프로젝트 디렉터리 이동 & 서버 실행
+
+VSCode 하단 터미널 또는 PowerShell에서 아래 명령어를 입력:
+
+```
+cd "Python 프로젝트 경로"  # 예: C:\Users\YourName\helking-project\backend
+py flask_transport_server.py
+
+```
+---
+
+### 4️⃣ 성공 시 출력 예시
+
+프로젝트가 정상 실행되면 터미널에 아래와 같이 출력됩니다:
+
+✅ selenium-stealth 패키지 로드 성공  
+🌐 서버 주소: http://localhost:8000```bash
+
+
+
+
+
+
+
+
+
