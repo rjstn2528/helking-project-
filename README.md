@@ -114,3 +114,5 @@ pip install flask
 pip install flask_cors
 pip install selenium_stealth
 
+cd "Python 프로젝트 경로"  # 예: C:\Users\YourName\helking-project\backend
+py flask_transport_server.py
