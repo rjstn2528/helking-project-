@@ -139,7 +139,7 @@ py flask_transport_server.py
 ### 5️⃣ Spring 서버 실행 방법
 
 Spring 서버를 실행하려면 아래 단계를 따라주세요:
-
+```
 Spring Tool Suite(STS) 실행
 
 프로젝트 임포트 (spring_legacy 폴더 내 프로젝트)
@@ -149,8 +149,6 @@ SQL 파일 실행하여 DB 테이블 생성
 톰캣 서버 실행
 
 기본 서버 주소: http://localhost:8080
-
-```
 ```
 
 ### 🔗 주요 API 예시 (Spring 서버 기준)
